@@ -64,5 +64,8 @@ public class CardGame {
         System.out.println(response);
     }
     
-    private static void printInfo(){}
+    private static void printInfo(){
+        System.out.println("My name is Lance, before programming - I was studying accounting. Best decision of my life!");
+
+    }
 }
